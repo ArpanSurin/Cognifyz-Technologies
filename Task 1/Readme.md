@@ -30,13 +30,13 @@ project-folder/
 - **HTML5 :** For structuring the content of the webpage.
 - **Responsive Design :** Using the viewport meta tag for mobile responsiveness.
 
-## 🖨️ Future Enhancements
+## 📈 Future Enhancements
 - **CSS Styling :** Adding CSS for improved styling and design.
 - **API Integration :** Incorporating APIs to fetch data dynamically.
 - **CSS Preprocessing :** Using preprocessors like SASS for more efficient styling.
 
 
-### 📈 Instructions to Use:
+### 🖨️ Instructions to Use:
 1. Save the file as `README.md` in the root directory of your project.
 2. Upload or commit the file to your GitHub repository.
 
