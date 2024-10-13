@@ -1,44 +1,21 @@
-# Task 2 : Styling with Inline CSS
+# Internship Projects at Cognifyz Technologies
 
-This project is part of my internship at **Cognifyz Technologies**. The focus of Task 2 is to apply basic inline CSS styles directly within HTML elements. By doing so, the project demonstrates how CSS can influence the appearance of web content without using external stylesheets.
+This repository contains the tasks and projects that I have worked on during my internship at **Cognifyz Technologies**. 
+The projects span a range of front-end and full-stack development topics, allowing me to apply my skills in building responsive, interactive, and scalable web applications.
 
-## 🔍 Project Objective
+## What I’ve Learned So Far
+During my internship at Cognifyz Technologies, I have gained practical experience in:
+- Structuring web applications using modern front-end technologies.
+- Creating responsive designs to ensure the best user experience across devices.
+- Collaborating in a professional environment, understanding the importance of code quality, and meeting project deadlines.
 
-The objective of this task is to :
-- Understand the fundamentals of CSS.
-- Apply basic styling inline within HTML elements.
-- Experiment with different CSS properties to see their impact on font color, size, and background color.
+## Technologies Used
 
-## 🛠️ Technologies Used
-- **HTML5 :** The base structure for the webpage.
-- **Inline CSS :** CSS applied directly to HTML elements using the style attribute.
-- **Flexbox :** For layout management to align and center content.
+- **HTML5, CSS3**: For front-end structure and styling.
+- **JavaScript/React**: Building interactive and dynamic user interfaces.
+- **API Integration**: Working with external data and integrating APIs.
+- **Version Control**: Using Git and GitHub for managing codebases.
 
-## 🎯 Features
-- **Inline CSS :** CSS styles are directly applied to HTML elements using the `style` attribute.
-- **Font and Color Changes :** Modifications to font color, background color, and font size.
-- **Flexbox Layout :** The project uses flexbox for layout management, aligning and centering content on the page.
-- **Responsive Image :** An image is styled to fit within the viewport while maintaining its aspect ratio.
+---
 
-## 💻 Project Steps
-
-1. Apply inline CSS to HTML elements to change the font color, size, and background color.
-2. Experiment with different styles, such as:
-   - Changing the font color of headings and paragraphs.
-   - Setting background colors for the body or specific elements.
-   - Adjusting the image size and aspect ratio using CSS properties like `object-fit`, `max-width`, and `max-height`.
-3. Save the HTML file and view it in the browser to observe the applied changes.
-
-## 📦 File Structure
-
-```bash
-project-folder/
-│
-├── index.html    # Main HTML file with inline CSS
-├── README.md     # Project documentation
-```
-
-## 🖨️ Learning Outcomes
-- Gained practical experience in applying inline CSS to HTML elements.
-- Explored the impact of different CSS properties on the visual appearance of web content.
-- Understood the importance of flexibility and responsiveness in web design using CSS.
+Feel free to explore the projects and reach out if you have any questions or feedback!
