@@ -1,4 +1,4 @@
-# Task 1: Basic HTML PageSteps :
+# Task 1 : Basic HTML PageSteps 
 This project is a basic HTML webpage designed to introduce beginners to front-end development. It demonstrates the foundational structure of an HTML page with headings, paragraphs, and images. The project will evolve to incorporate advanced front-end techniques, including API integration and CSS preprocessing.
 
 **Note :** This is the first task of my internship program at **Cognifyz Technologies**
