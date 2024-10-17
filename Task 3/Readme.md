@@ -31,4 +31,3 @@ responsive-design-project/
 
 ## 📃 Acknowledgments
 - [Google Fonts](https://fonts.google.com/) for providing the font resources.
-- Various online tutorials and documentation for responsive design practices.
