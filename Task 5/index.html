@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 5</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+
+<body>
+    <div id="error"></div>
+    <div class="form">
+        <h2>User Validation Form</h2>
+        <form action="/" class="" id="form">
+
+            <!-- USERNAME -->
+            <div class="input-box">
+                <label for="">Name</label>
+                <input type="text" id="name" required>
+            </div>
+            
+            <!-- PHONE NUMBER -->
+            <div class="input-box">
+                <span class="icon">
+                    <ion-icon class="User"></ion-icon>
+                </span>
+                <label for="">Phone No.</label>
+                <input type="number" id="phone" required minlength="10">
+            </div>
+
+            <!-- EMAIL -->
+            <div class="input-box">
+                <span class="icon">
+                    <ion-icon name="mail"></ion-icon>
+                </span>
+                <label>Email</label>
+                <input type="email" id="email" required>
+            </div>
+
+            <!-- PASSWORD -->
+            <div class="input-box">
+                <span class="icon">
+                    <ion-icon name="lock"></ion-icon>
+                </span>
+                <label>Password</label>
+                <input type="Password" id="pass" required>
+            </div>
+
+            <div class="input-box">
+                <label>
+                </label>
+                <button class="submit" type="submit">Register</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
