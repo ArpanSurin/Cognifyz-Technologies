@@ -1,4 +1,4 @@
-# Task 4 : Form Styling and Validation 
+# Task 5 : Form Styling and Validation 
 
 This project is a part of my internship at **Cognifyz Technloogy.**\
 A simple user registration form that validates user inputs such as name, phone number, email, and password using JavaScript.
